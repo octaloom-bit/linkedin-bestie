@@ -92,9 +92,21 @@ Everything else is method and travels between people unchanged.
 
 ## The numbers in this repo
 
-Every platform figure in `formatting.md` and every content-mix percentage in `frameworks.md` is tagged `[rule of thumb]`, meaning a rule of thumb that works in practice and that nobody measured on your audience. They come from the LinkedIn creator community and they change without notice.
+Every platform figure in `formatting.md` and every content-mix percentage in `frameworks.md` is tagged `[rule of thumb]`, meaning it works in practice and nobody measured it on your audience. They come from the LinkedIn creator community and they change without notice.
 
 After 20 posts your own data beats all of them. `hooks.md` has the template for logging it.
+
+---
+
+## Credits
+
+Nothing here was invented from scratch. Two bodies of work sit underneath it.
+
+**The LinkedIn method** is built on what **[Lara Acosta](https://www.linkedin.com/in/laraacostar)** has been teaching publicly about personal branding, and on the content work coming out of **[Kleo](https://kleo.so)**. The hook formulas, the re-hook, the five-layer post anatomy and most of the framework set trace back there. If you write on LinkedIn and you follow one person for it, follow Lara.
+
+**The Hebrew method** owes its debt to the **[hebrew-writer](https://github.com/baldiga/hebrew-writer)** skill by **Amir Baldiga**. Earlier versions of this skill handed every Hebrew sentence to it. `references/hebrew.md` is now self-contained, so this repo installs with no dependencies, and several of its rules still come straight from that work: the spoken openers (אז, אבל, דווקא, נו) and the self-correction marker as a signal of a human writing.
+
+To be exact about what this repo contains: no code or text from hebrew-writer ships here. The credit is for the thinking.
 
 ---
 
