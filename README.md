@@ -104,9 +104,11 @@ Nothing here was invented from scratch. Two bodies of work sit underneath it.
 
 **The LinkedIn method** is built on what **[Lara Acosta](https://www.linkedin.com/in/laraacostar)** has been teaching publicly about personal branding, and on the content work coming out of **[Kleo](https://kleo.so)**. The hook formulas, the re-hook, the five-layer post anatomy and most of the framework set trace back there. If you write on LinkedIn and you follow one person for it, follow Lara.
 
-**If you write in Hebrew, go install [hebrew-writer](https://github.com/baldiga/hebrew-writer) by Amir Baldiga.** It is the first Hebrew-native writing skill for Claude Code and it goes deeper on Hebrew prose than `references/hebrew.md` here ever will: 55+ pattern detection, Israeli voice injection, voice cloning.
+**Writing in Hebrew? Install [hebrew-writer](https://github.com/baldiga/hebrew-writer) by Amir Baldiga as well.**
 
-Earlier versions of this skill handed every Hebrew sentence straight to it, and the Hebrew thinking in this repo came out of working with it. The two install side by side and they do different jobs. This one plans the post and grades the voice. That one writes Hebrew that fools Israelis.
+The first Hebrew-native writing skill for Claude Code, and the deepest one available today: 55+ AI pattern detection, Israeli voice injection, voice cloning.
+
+Early versions of the Bestie handed every Hebrew sentence to it. The two work well together because they do different jobs. The Bestie builds the post and checks the voice. hebrew-writer writes the prose.
 
 ---
 
