@@ -100,9 +100,11 @@ After 20 posts your own data beats all of them. `hooks.md` has the template for 
 
 ## Credits
 
-Nothing here was invented from scratch. Two bodies of work sit underneath it.
+**The Circulation Loop is OctaLoom's model.** The three-post system, the job each post type does, the mix and the way one raw idea splits across them came out of running LinkedIn programs for Israeli B2B founders. That part is original to this skill.
 
-**The LinkedIn method** is built on what **[Lara Acosta](https://www.linkedin.com/in/laraacostar)** has been teaching publicly about personal branding, and on the content work coming out of **[Kleo](https://kleo.so)**. The hook formulas, the re-hook, the five-layer post anatomy and most of the framework set trace back there. If you write on LinkedIn and you follow one person for it, follow Lara.
+Two acknowledgements around it.
+
+**[Lara Acosta](https://www.linkedin.com/in/laraacostar)** and **[Kleo](https://kleo.so)** sharpened how I think about hooks and post structure. A few of the hook shapes in `references/hooks.md` started as things I noticed watching how she writes. If you write on LinkedIn, follow her.
 
 **Writing in Hebrew? Install [hebrew-writer](https://github.com/baldiga/hebrew-writer) by Amir Baldiga as well.**
 

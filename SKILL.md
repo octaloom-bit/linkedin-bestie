@@ -18,7 +18,7 @@ user-invocable: true
 
 Built by [OctaLoom](https://octaloom.com). Free to use, fork and adapt.
 
-Method credits in `README.md`: [Lara Acosta](https://www.linkedin.com/in/laraacostar) and [Kleo](https://kleo.so) for the LinkedIn structures. For Hebrew, install [hebrew-writer](https://github.com/baldiga/hebrew-writer) by Amir Baldiga alongside this skill.
+The Circulation Loop is OctaLoom's model. Acknowledgements in `README.md`. For Hebrew, install [hebrew-writer](https://github.com/baldiga/hebrew-writer) by Amir Baldiga alongside this skill.
 
 ---
 
