@@ -104,9 +104,9 @@ Nothing here was invented from scratch. Two bodies of work sit underneath it.
 
 **The LinkedIn method** is built on what **[Lara Acosta](https://www.linkedin.com/in/laraacostar)** has been teaching publicly about personal branding, and on the content work coming out of **[Kleo](https://kleo.so)**. The hook formulas, the re-hook, the five-layer post anatomy and most of the framework set trace back there. If you write on LinkedIn and you follow one person for it, follow Lara.
 
-**The Hebrew method** owes its debt to the **[hebrew-writer](https://github.com/baldiga/hebrew-writer)** skill by **Amir Baldiga**. Earlier versions of this skill handed every Hebrew sentence to it. `references/hebrew.md` is now self-contained, so this repo installs with no dependencies, and several of its rules still come straight from that work: the spoken openers (אז, אבל, דווקא, נו) and the self-correction marker as a signal of a human writing.
+**If you write in Hebrew, go install [hebrew-writer](https://github.com/baldiga/hebrew-writer) by Amir Baldiga.** It is the first Hebrew-native writing skill for Claude Code and it goes deeper on Hebrew prose than `references/hebrew.md` here ever will: 55+ pattern detection, Israeli voice injection, voice cloning.
 
-To be exact about what this repo contains: no code or text from hebrew-writer ships here. The credit is for the thinking.
+Earlier versions of this skill handed every Hebrew sentence straight to it, and the Hebrew thinking in this repo came out of working with it. The two install side by side and they do different jobs. This one plans the post and grades the voice. That one writes Hebrew that fools Israelis.
 
 ---
 
